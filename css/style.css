@@ -1,0 +1,21 @@
+body {
+
+}
+
+#board {
+    width:600px;
+    height:600px;
+    margin: 0 auto;
+   
+}
+
+.box {
+    width: 33%;
+    float: left;
+    border: 1px solid #000;
+    height: 200px;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    display: grid;
+}
